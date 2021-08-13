@@ -1,0 +1,11 @@
+help
+resize 2
+add 0 1
+resize 10
+mul 0 1
+comp 0 1
+poly 2 2 4
+log 10 1
+add 0
+resize 3
+exit

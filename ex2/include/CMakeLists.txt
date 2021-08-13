@@ -1,0 +1,1 @@
+target_include_directories (ex2_David_Sapir_Shimshon_Polak PRIVATE ${CMAKE_CURRENT_LIST_DIR})
